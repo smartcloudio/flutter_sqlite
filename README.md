@@ -1,16 +1,26 @@
-# flutter_app
+Flutter Application
+===================
 
-A new Flutter application.
+# Trabalho de Análise e Desenvolvimento de Sistemas
+# IFRO - Campus Ji-Paraná
+# Disciplina: Desenvolvimento de Applicativos Mobile
 
-## Getting Started
+# v. 1.0.0
 
-This project is a starting point for a Flutter application.
+## CRUD on inMemory Persistence Data
+## CRUD From Users Table with SQLite DB
+## Theme Chooser (Dark and Light)
 
-A few resources to get you started if this is your first Flutter project:
+# Getting Started
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# This project is a starting point for a Flutter application with:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* cupertino_icons: ^1.0.2
+* provider: ^4.3.3
+* sqflite: ^1.3.2+4
+* path_provider: ^2.0.1
+* fluttertoast: ^8.0.6
+* flutter_icons: ^1.1.0
+* shared_preferences: ^2.0.0
+* google_fonts: ^1.1.0
+* cached_network_image: ^2.5.1
